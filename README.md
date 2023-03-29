@@ -2,11 +2,6 @@
 
 
 
-Here are some quick things about me
-
-- 🔭 I’m currently working on ... Swap Ad Project (please ask for details, not including on github public at the moment)
-- 🌱 I’m currently learning ... Javascript, already know Python and SQL
-- *Looking to work on additional Data Science projects, please message me if interested in coloborating
-- 📫 How to reach me: ... Lpetrus16@gmail.com or 630-485-0131
-- ⚡ Fun fact: ... my family was 1 number away from hitting the lottery
+Please note all of my most recent github activity has been related to my current job at Ford Motor Company. 
+Projects on here are some older Data Science models, as well as some projects that were in developement before I started my job
 
